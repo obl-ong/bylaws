@@ -20,7 +20,7 @@
 
 ## ARTICLE IV: STEERING COMMITTEE & DUTIES
 
-1. The Steering Committee shall be composed of two (2) Co-Chairs, one (1) Secretary-Treasurer, and two (2) At-Large Members.
+1. The Steering Committee shall be composed of two (2) Co-Chairs, one (1) Secretary-Treasurer, and two (2) Regular Members.
 2. To be eligible for the Steering Committee, candidates must be members of the Organization.
 3. Candidates will nominate themselves no later than one week prior to the date of the election.
 4. Elections shall occur on a meeting date during the month of December.
@@ -52,6 +52,9 @@
    e. To manage any funds of the organization.
    f. To maintain an active log of the Organization's income and expenditures.
    g. To serve as the lead organizer for all fundraisers.
+11. The duties of the General members shall be:
+   a. To attend meetings and be informed about the operations of the Organization.
+   b. To support the committee in its operations and decision-making.
 
 ## ARTICLE V: FUNDING
 
