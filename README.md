@@ -12,7 +12,7 @@
 
 1. Membership in the organization shall be open to any person whose membership has not been terminated previously.
 2. Eligibility for membership or officer positions in this organization may not be limited on the basis of race, sex, gender, religion, national origin, sexual orientation, physical or mental handicap, ancestry, or medical condition.
-3. Membership is defined by any person who has an approved registration for an `obl.ong` domain listed in the Organization's directory and meets the eligibility criteria set forth in the bylaws herein.
+3. Membership is defined by any person who has an approved registration for a domain listed in the Organization's directory and meets the eligibility criteria set forth in the bylaws herein.
 5. The term of each membership shall be one (1) year commencing on the date when the member has an approved registration for an `obl.ong` domain listed in the Organization's directory.
 6. Memberships may be renewed within 30 days of the expiration date, or any time after the membership has expired, upon continued use of the domain registrar service, which is defined as any log-in to the service by the member, or appearance to any regular meeting of the organization.
 7. For the purposes of calculating some vote thresholds in the rest of the document, we define "Active Members" as members who have attended at least 50% of the last four meetings (or however many meetings have been had, whichever is lower).
