@@ -67,7 +67,6 @@
 ## ARTICLE VI: MEETINGS
 
 1. Regular meetings of the organization shall be held on the second Sunday of each calendar month.
-   a. Meeting times may be changed by a one-thirds (⅔) vote of membership.
 2. Special meetings may be called by the Steering Committee. Elections may not occur at such meetings.
 3. Agendas for meetings shall be prepared by the Steering Committee and will be available at the request of members before a meeting.
 4. Votes that require a threshold of members more than the number that are present at the meeting shall be taken by means of an online platform available for 24 hours.
