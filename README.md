@@ -86,7 +86,7 @@
 
 ## ARTICLE VIII: AMENDMENT OF BYLAWS
 
-1. These bylaws may be amended at any regular meeting of the organization by a two-thirds (⅔) vote, provided that the amendment has been submitted in writing to the Steering Committee at the previous regular meeting.
+1. These bylaws may be amended by a two-thirds (⅔) vote conducted through an online voting platform available for 24 hours.
 
 ## ARTICLE IX: CODE OF CONDUCT
 
