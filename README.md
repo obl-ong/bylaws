@@ -61,8 +61,9 @@
 
 1. The organization shall be funded through the following means: fiscal sponsorship, fundraisers, contributions from any organization or individual that supports the Organization's mission, fundraisers, and any approved financial assistance granted by the Organization's steering committee.
 2. All money transactions must be approved by the Secretary-Treasurer.
-3. All money transactions over $100 must be approved by a majority vote of the membership at a regular meeting.
+3. All money transactions over $100 must be approved by a majority vote at a regular meeting.
 4. The Steering Committee shall maintain a record of all financial transactions and accounts. These records shall be made available at any time by the request of any active member of the Organization and the general public.
+5. All Steering Committee members shall be added to the HCB organization.
 
 ## ARTICLE VI: MEETINGS
 
