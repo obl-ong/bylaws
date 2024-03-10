@@ -70,7 +70,7 @@
 2. Special meetings may be called by the Steering Committee. Elections may not occur at such meetings.
 3. Agendas for meetings shall be prepared by the Steering Committee and will be available at the request of members before a meeting.
 4. Votes that require a threshold of members more than the number that are present at the meeting shall be taken by means of an online platform available for 24 hours.
-5. Two percent of the members in good standing or 30 members, whichever is less, of the Chapter shall constitute a quorum and is required for the transaction of business at any meeting of the Organization.
+5. Two-thirds of the number of Active Members shall constitute a quorum and is required for the transaction of business (i.e. voting) at any meeting of the Organization.
   a. If a quorum is ever not present, votes may be taken by means of an online platform available for 24 hours.
   b. Should a meeting fail to meet quorum on three consecutive meetings with formal motions, the Steering Committee shall be permitted to modify this formulation, subject to a majority vote of the members present at the next planned regular meeting.
 
