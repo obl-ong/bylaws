@@ -31,7 +31,7 @@
    - Steering Committee vacancies shall be filled via a special election, to be announced within one week of a Steering Committee seat becoming vacant, and held no later than two weeks after the announcement.
       1. Announced at one (1) regular meeting, at least one (1) week, in advance of the election.
       2. An email be sent to all members by the Steering Committee upon scheduling the election.
-7. Steering Committee members may be subject to recall by petition with signatures of one-third (⅓) of the Organization's membership.
+7. Steering Committee members may be subject to recall by petition with signatures of one-third (⅓) of the Organization's membership or two-thirds of Active Members.
    - Submission of such a valid petition shall trigger a recall election to be held no later than 30 days from receipt of that petition by the Steering Committee.
       - The meeting for a recall vote shall be properly noticed to the membership, at a minimum doing the following:
          1. Announced at one (1) regular meeting, at least one (1) week, in advance of the election.
